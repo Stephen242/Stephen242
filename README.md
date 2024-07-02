@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello! I'm Stephen Wu, a penultimate student studying Computer Science at the University of New South Wales (UNSW). I have a passion for coding, problem-solving, and continuously learning new technologies. I enjoy working on projects that challenge me and help me grow as a developer.
 
 <!--
 **Stephen242/Stephen242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
